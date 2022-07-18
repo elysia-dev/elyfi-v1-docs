@@ -12,7 +12,7 @@
 
 차입자의 차입 금리는 머니풀의 상황에 의존하지 않고 차입 시점의 금리를 그대로 유지합니다. 이를 통해 차입자는 현물 자산의 대출을 안정적이고 예측가능하도록 시행할 수 있게 됩니다.
 
-유저 $x$가 시점 $t$에서 차입금 $m$을 대출 혹은 상환한 이후, $\Delta T$가 지났을 때,  Real asset Collateralized DToken balance $DB_R(x, t)$는 아래와 같이 계산합니다.
+유저 $x$ 가 시점 $t$ 에서 차입금 $m$ 을 대출 혹은 상환한 이후, $\Delta T$ 가 지났을 때,  Real asset Collateralized DToken balance $DB_R(x, t)$ 는 아래와 같이 계산합니다.
 
 $$
 DB_R(x,t)=m*((\frac{BR_R(t-1)}{T_{year}}+1)^{\Delta T}
