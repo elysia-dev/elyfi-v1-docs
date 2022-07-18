@@ -10,7 +10,7 @@
 
 | Allocation | Address |
 | --- | --- |
-| Yield Farming | https://etherscan.io/address/0x852e3722484C0A00C333682eC96cE1cF17119A29 |
-| Airdrop & Converting | https://etherscan.io/address/0x288173dE57957469b47c333C2467511Af64DF64B |
-| Investors | https://etherscan.io/address/0x40593De42C726Cd370EDDD0190b951AeE761Fbc9 |
-| Team | https://etherscan.io/address/0xFAA1F5851D31F7d42322a76c661c56A5522845Df |
+| Yield Farming | [0x852e3722484C0A00C333682eC96cE1cF17119A29](https://etherscan.io/address/0x852e3722484C0A00C333682eC96cE1cF17119A29) |
+| Airdrop & Converting | [0x288173dE57957469b47c333C2467511Af64DF64B](https://etherscan.io/address/0x288173dE57957469b47c333C2467511Af64DF64B) |
+| Investors | [0x40593De42C726Cd370EDDD0190b951AeE761Fbc9](https://etherscan.io/address/0x40593De42C726Cd370EDDD0190b951AeE761Fbc9) |
+| Team | [0xFAA1F5851D31F7d42322a76c661c56A5522845Df](https://etherscan.io/address/0xFAA1F5851D31F7d42322a76c661c56A5522845Df) |
