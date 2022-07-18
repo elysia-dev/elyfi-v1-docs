@@ -20,7 +20,7 @@
 
 이자율 모델의 자세한 스펙은 [https://github.com/elysia-dev/elyfi/blob/master/docs/InterestRateModel.md](https://github.com/elysia-dev/elyfi/blob/master/docs/InterestRateModel.md) 을 참고해주세요.
 
-## Intereset Rate Flow
+## Interest Rate Flow
 전통적인 금융 시장의 대출 및 차입 프로세스와 달리, 엘리파이에서 투자자와 차입자는 제3의 중개인 없이 투자 및 담보대출이 가능합니다. 이자율은 자동화된 알고리즘을 통해 결정되며, 투자와 차입자는 이자율을 협상하지 않고도 자동화된 알고리즘을 통해 거래를 진행할 수 있습니다. 차입자와 투자자에게 발생하는 이자는 동일하며, 이에 대한 흐름은 아래 수식으로 세울 수 있습니다.
 
 $$
