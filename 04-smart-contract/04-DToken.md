@@ -4,11 +4,12 @@
 
 | Currency | Address |
 | --- | --- |
-| USDC | https://etherscan.io/address/0xf917147d8ED7b57C107D36576f4cCDe410ae29B6 |
-| USDT | https://etherscan.io/address/0xF421BEd2aE79615ad17F51137873139a47342a5E |
-| BUSD | https://bscscan.com/address/0xE9f638C2ba70EA022c710eAeEf14824F126d0c34 |
-| DAI | https://etherscan.io/address/0x62324ce2E14bb94512eC26C9fF0Be2CaD8c83d1B |
+| USDC | [0xf917147d8ED7b57C107D36576f4cCDe410ae29B6](https://etherscan.io/address/0xf917147d8ED7b57C107D36576f4cCDe410ae29B6) |
+| USDT | [0xF421BEd2aE79615ad17F51137873139a47342a5E](https://etherscan.io/address/0xF421BEd2aE79615ad17F51137873139a47342a5E) |
+| BUSD | [0xE9f638C2ba70EA022c710eAeEf14824F126d0c34](https://bscscan.com/address/0xE9f638C2ba70EA022c710eAeEf14824F126d0c34) |
+| DAI | [0x62324ce2E14bb94512eC26C9fF0Be2CaD8c83d1B](https://etherscan.io/address/0x62324ce2E14bb94512eC26C9fF0Be2CaD8c83d1B) |
 
+DToken의 상세 컨트랙트 스펙은 [DToken 문서](https://github.com/elysia-dev/elyfi/blob/master/docs/DToken.md)를 참고해주세요.
 
 차입자의 차입 금리는 머니풀의 상황에 의존하지 않고 차입 시점의 금리를 그대로 유지합니다. 이를 통해 차입자는 현물 자산의 대출을 안정적이고 예측가능하도록 시행할 수 있게 됩니다.
 

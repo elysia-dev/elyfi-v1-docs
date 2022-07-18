@@ -4,12 +4,12 @@
 
 | Currency | Address |
 | --- | --- |
-| USDC | https://etherscan.io/address/0x3Fea4cC5a03E372ac9cded96bD07795Ac9034d71 |
-| USDT | https://etherscan.io/address/0xe0BdA8E3A27E889837Ae37970fe97194453ee79C |
-| BUSD | https://bscscan.com/address/0x5bb4d02A0BA38fB8B916758f11d9B256967a1F7F |
-| DAI | https://etherscan.io/address/0x527c901E05228f54a9a63151A924A97622F9f173 |
+| USDC | [0x3Fea4cC5a03E372ac9cded96bD07795Ac9034d71](https://etherscan.io/address/0x3Fea4cC5a03E372ac9cded96bD07795Ac9034d71) |
+| USDT | [0xe0BdA8E3A27E889837Ae37970fe97194453ee79C](https://etherscan.io/address/0xe0BdA8E3A27E889837Ae37970fe97194453ee79C) |
+| BUSD | [0x5bb4d02A0BA38fB8B916758f11d9B256967a1F7F](https://bscscan.com/address/0x5bb4d02A0BA38fB8B916758f11d9B256967a1F7F) |
+| DAI | [0x527c901E05228f54a9a63151A924A97622F9f173](https://etherscan.io/address/0x527c901E05228f54a9a63151A924A97622F9f173) |
 
-LToken의 상세 컨트랙트 스펙은 [https://github.com/elysia-dev/elyfi/blob/master/docs/LToken.md](https://github.com/elysia-dev/elyfi/blob/master/docs/LToken.md) 을 참고해주세요.
+LToken의 상세 컨트랙트 스펙은 [LToken 문서](https://github.com/elysia-dev/elyfi/blob/master/docs/LToken.md)를 참고해주세요.
 
 ## LToken Interest Index
 

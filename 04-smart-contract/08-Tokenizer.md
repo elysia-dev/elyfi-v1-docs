@@ -4,10 +4,10 @@
 
 | Currency | Address |
 | --- | --- |
-| USDC | https://etherscan.io/address/0xD86f51C8d0F10AAd267fB42E143D6d0B97aE9B23 |
-| USDT | https://etherscan.io/address/0x68f69Ab21242e194ebd7534B598e26180dD92616 |
-| BUSD | https://bscscan.com/address/0x0d768c1507B5099CB37e5D28B1959B831B5EbF9e |
-| DAI | https://etherscan.io/address/0x68f69Ab21242e194ebd7534B598e26180dD92616 |
+| USDC | [0xD86f51C8d0F10AAd267fB42E143D6d0B97aE9B23](https://etherscan.io/address/0xD86f51C8d0F10AAd267fB42E143D6d0B97aE9B23) |
+| USDT | [0x68f69Ab21242e194ebd7534B598e26180dD92616](https://etherscan.io/address/0x68f69Ab21242e194ebd7534B598e26180dD92616) |
+| BUSD | [0x0d768c1507B5099CB37e5D28B1959B831B5EbF9e](https://bscscan.com/address/0x0d768c1507B5099CB37e5D28B1959B831B5EbF9e) |
+| DAI | [0x68f69Ab21242e194ebd7534B598e26180dD92616](https://etherscan.io/address/0x68f69Ab21242e194ebd7534B598e26180dD92616) |
 
 이 컨트랙트를 통해 대출을 받기까지의 과정을 요약하면 아래와 같습니다.
 
@@ -18,7 +18,7 @@
 5. 위원회 서명 : 4의 결과를 바탕으로 위원회가 대출 채권 토큰 발행을 승인합니다.
 6. 대출 실행 : 5의 과정을 통해 승인 받은 대출 채권 토큰으로 담보법인이 대출을 실행합니다.
 
-토큰 발행 과정은 거버넌스에 의해 수정될 수 있습니다. 
+토큰 발행 과정은 거버넌스에 의해 수정될 수 있습니다.
 
 > 4~5의 과정은 [Tally](https://www.tally.xyz/) 를 이용하여 거버넌스 투표 + 타임락 컨트랙트를 이용했었습니다. 하지만 가스비 이슈로 현재는 Tally를 사용하지 않고 [Snapshot](https://vote.elyfi.world/#/) 을 이용하여 오프체인 투표를 진행하고, 정해진 대리인이 서명하는 방식으로 진행하고 있습니다.
 

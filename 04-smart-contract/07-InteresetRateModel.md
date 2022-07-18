@@ -4,10 +4,10 @@
 
 | Currency | Address |
 | --- | --- |
-| USDC | https://etherscan.io/address/0xd037fE2bFB78f4bAFAD5903241Dd284f43306B62 |
-| USDT | https://etherscan.io/address/0x3047dFb0Dc3f21670BBB61311E9fa18037a4d0Ca |
-| BUSD | https://bscscan.com/address/0x979c7AEf8EF58Aa9cd456F8195258140dA275688 |
-| DAI | https://etherscan.io/address/0x579564be7F01b6D61617E1A01D2CdB4A0C045003 |
+| USDC | [0xd037fE2bFB78f4bAFAD5903241Dd284f43306B62](https://etherscan.io/address/0xd037fE2bFB78f4bAFAD5903241Dd284f43306B62) |
+| USDT | [0x3047dFb0Dc3f21670BBB61311E9fa18037a4d0Ca](https://etherscan.io/address/0x3047dFb0Dc3f21670BBB61311E9fa18037a4d0Ca) |
+| BUSD | [0x979c7AEf8EF58Aa9cd456F8195258140dA275688](https://bscscan.com/address/0x979c7AEf8EF58Aa9cd456F8195258140dA275688) |
+| DAI | [0x579564be7F01b6D61617E1A01D2CdB4A0C045003](https://etherscan.io/address/0x579564be7F01b6D61617E1A01D2CdB4A0C045003) |
 
 이자율 모델을 결정하는 변수는 최저이자율, 최적이자율, 최적 비율 3개로 이루어져있습니다. 최저 이자율은 대출이 아예 없을 때 시작하는 이자율입니다. 최적 비율은 이자율의 기울기가 바뀌는 비율입니다. 최적 이자율은 이자율의 기울기가 바뀌는 시점의 이자율입니다. 스테이블 코인별 각 변수는 아래와 같습니다. 각 이자율은 대출이자율을 의미합니다.
 
@@ -18,7 +18,7 @@
 
 이자율 모델의 각 변수는 엘리파이 어드민이 수정할 수 있으며, 거버넌스에서 결정한 값을 반영합니다.
 
-이자율 모델의 자세한 스펙은 [https://github.com/elysia-dev/elyfi/blob/master/docs/InterestRateModel.md](https://github.com/elysia-dev/elyfi/blob/master/docs/InterestRateModel.md) 을 참고해주세요.
+이자율 모델의 자세한 스펙은 [InterestRateModel 문서](https://github.com/elysia-dev/elyfi/blob/master/docs/InterestRateModel.md)를 참고해주세요.
 
 ## Interest Rate Flow
 전통적인 금융 시장의 대출 및 차입 프로세스와 달리, 엘리파이에서 투자자와 차입자는 제3의 중개인 없이 투자 및 담보대출이 가능합니다. 이자율은 자동화된 알고리즘을 통해 결정되며, 투자와 차입자는 이자율을 협상하지 않고도 자동화된 알고리즘을 통해 거래를 진행할 수 있습니다. 차입자와 투자자에게 발생하는 이자는 동일하며, 이에 대한 흐름은 아래 수식으로 세울 수 있습니다.

@@ -6,7 +6,7 @@
 
 | Network | Address |
 | --- | --- |
-| Etheruem Mainnet | https://etherscan.io/address/0xa93008fD32EB24E488DDAA6C0aA152559fDa9E8c |
-| BSC mainnet | https://bscscan.com/address/0x0bdFef5f8B75741d33a22d85022244CBE793DA24 |
+| Etheruem Mainnet | [0xa93008fD32EB24E488DDAA6C0aA152559fDa9E8c](https://etherscan.io/address/0xa93008fD32EB24E488DDAA6C0aA152559fDa9E8c) |
+| BSC mainnet | [0x0bdFef5f8B75741d33a22d85022244CBE793DA24](https://bscscan.com/address/0x0bdFef5f8B75741d33a22d85022244CBE793DA24) |
 
-자세한 컨트랙트 스펙은 [https://github.com/elysia-dev/elyfi/blob/master/docs/MoneyPool.md](https://github.com/elysia-dev/elyfi/blob/master/docs/MoneyPool.md) 을 참고해주세요.
+자세한 컨트랙트 스펙은 [Moneypool 문서](https://github.com/elysia-dev/elyfi/blob/master/docs/MoneyPool.md)를 참고해주세요.

@@ -4,9 +4,9 @@
 
 | Currency | Address |
 | --- | --- |
-| USDC | https://etherscan.io/address/0xFB9E3212582765892AEF44A7c0084cE183E08e90 |
-| USDT | https://etherscan.io/address/0x94aa0e263f7fCae5648A1062877FE66788402f71 |
-| BUSD | https://bscscan.com/address/0xf42C51527cccAB25b70ad46b6C79353d0F2cDdfC |
-| DAI | https://etherscan.io/address/0x3Fed75D8f58A0Ca57ecaB7446580266AC846De06 |
+| USDC | [0xFB9E3212582765892AEF44A7c0084cE183E08e90](https://etherscan.io/address/0xFB9E3212582765892AEF44A7c0084cE183E08e90) |
+| USDT | [0x94aa0e263f7fCae5648A1062877FE66788402f71](https://etherscan.io/address/0x94aa0e263f7fCae5648A1062877FE66788402f71) |
+| BUSD | [0xf42C51527cccAB25b70ad46b6C79353d0F2cDdfC](https://bscscan.com/address/0xf42C51527cccAB25b70ad46b6C79353d0F2cDdfC) |
+| DAI | [0x3Fed75D8f58A0Ca57ecaB7446580266AC846De06](https://etherscan.io/address/0x3Fed75D8f58A0Ca57ecaB7446580266AC846De06) |
 
-자세한 컨트랙트 스펙은 [https://github.com/elysia-dev/elyfi/blob/master/docs/IncentivePool.md](https://github.com/elysia-dev/elyfi/blob/master/docs/IncentivePool.md) 을 참고해주세요.
+자세한 컨트랙트 스펙은 [IncentivePool 문서](https://github.com/elysia-dev/elyfi/blob/master/docs/IncentivePool.md)를 참고해주세요.

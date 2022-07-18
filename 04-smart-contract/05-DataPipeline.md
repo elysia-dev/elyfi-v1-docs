@@ -4,7 +4,7 @@
 
 | Network | Address |
 | --- | --- |
-| Etheruem Mainnet | https://etherscan.io/address/0x128AF7E290ECCDe0050f33A1b5A4Bc8b2BB4d817 |
-| BSC mainnet | https://bscscan.com/address/0xA63830cCCDcd380b00EF00f070357Cb03cDc2E7b |
+| Etheruem Mainnet | [0x128AF7E290ECCDe0050f33A1b5A4Bc8b2BB4d817](https://etherscan.io/address/0x128AF7E290ECCDe0050f33A1b5A4Bc8b2BB4d817) |
+| BSC mainnet | [0xA63830cCCDcd380b00EF00f070357Cb03cDc2E7b](https://bscscan.com/address/0xA63830cCCDcd380b00EF00f070357Cb03cDc2E7b) |
 
-상세한 스펙은 [https://github.com/elysia-dev/elyfi/blob/master/docs/DataPipeline.md](https://github.com/elysia-dev/elyfi/blob/master/docs/DataPipeline.md) 를 참고해주세요.
+상세한 스펙은 [DataPipeline 문서](https://github.com/elysia-dev/elyfi/blob/master/docs/DataPipeline.md)를 참고해주세요.
