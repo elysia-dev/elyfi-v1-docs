@@ -1,4 +1,4 @@
-## 토큰 할당
+# 토큰 할당
 
 ![allocation](./allocation.png)
 
