@@ -6,6 +6,8 @@
 
 위 시나리오에서 참여한 참여자는 대출을 하려고 싶은 차입자, 대출을 검증하는 거버넌스 참여자가 있습니다. 대출이 이루어지는 과정을 요약하면 아래와 같습니다.
 
+![borrow](./borrow.png)
+
 1. 대출채권 기반 자산채권토큰 발행하기
 2. 발행한 자산채권토큰 포럼 검증 : [예시](https://forum.elyfi.world/t/nap41-request-for-verification-of-abtoken/183)
 3. 자산채권토큰 거버넌스 투표 : [예시](https://vote.elyfi.world/#/proposal/0xaf22e96ede87c7cc1df0918a5097918312aed07847e208e5a712845eae54ea56)

@@ -6,7 +6,9 @@
 
 지우는 100,000DAI로 한달 동안 330 DAI + 2,166 DAI에 해당하는 ELFI을 얻게 되었습니다. ELFI 토큰을 쌓여있는 채로 두기는 아쉬웠던 지우는 절반은 DAI로 변경하고 절반은 스테이킹에 넣어두기로 결정했습니다. 먼저 지우는 ELFI 토큰을 수령하고, [Uniswap](https://app.uniswap.org/)을 이용해서 ELFI 토큰의 절반 정도인 1,000 DAI로 스왑한 뒤 다시 예치했고, 나머지는 [스테이킹](https://guide.elyfi.world/v/korean-2/elfi/staking)했습니다. 보상을 수령하는 방법은 [보상 수령 가이드](https://guide.elyfi.world/v/korean-2/deposit-withdrawal/claim-rewards)를 참고해주세요.
 
-위 시나리오에서 지우가 진행한 시나리오를 정리하면 아래와 같습니다. (그림으로도 표현하면 좋을 듯)
+위 시나리오에서 지우가 진행한 시나리오를 정리하면 아래와 같습니다.
+
+![deposit](./deposit.png)
 
 1. 100,000DAI 예치
 2. 한달 뒤, 100,333DAI + 2,166 DAI에 해당하는 ELFI
